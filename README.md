@@ -16,7 +16,7 @@
 - Mostrar a tarefa que está a mais tempo na lista
 - Selecionar uma tarefa na lista e remove-la da lista.
 - Selecionar uma tarefa na lista e resolve-la.
-- 
+  
 ### Tela Inicial:
 <figure>
   <img src="https://github.com/user-attachments/assets/178307a2-33b8-4ecb-98e2-6330fd9946b7">
